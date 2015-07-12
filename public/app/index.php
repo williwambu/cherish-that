@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Cherish That</title>
-    <meta name="description" content="Cherish That">
+    <meta name="description" content="Cherish That Cakes">
     <meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="stylesheet" href="bower_components/materialize/bin/materialize.css"/>
