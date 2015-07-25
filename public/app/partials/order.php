@@ -25,7 +25,7 @@
 						<div class="input-field">
 							<i class="material-icons prefix custom-icon">phone</i>
 							<input id="phone-number" type="text" name="phone-number">
-							<label for="phone-number">Your phone Number</label>
+							<label for="phone-number">Phone Number</label>
 						</div>
 						<div class="input-field">
 							<i class="material-icons prefix custom-icon">email</i>

@@ -1,8 +1,16 @@
 body {
     background: url("../images/halftone.png") center repeat;
 }
-
-
+.logo{
+    height: 3.8rem;
+    margin-top: 0.3rem;
+    padding-left: 0.3rem !important;
+    padding-right: 0.4rem !important;
+}
+.brand-logo{
+    background-color: white !important;
+    height: 64px !important;
+}
 /* media queries */
 
 
@@ -36,7 +44,7 @@ body {
 
 @media (min-width: 992px) {
     nav li:first-child {
-        margin-left: 120px !important;
+        margin-left: 130px !important;
     }
     .product-image {
         height: 13rem;

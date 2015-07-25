@@ -5,7 +5,7 @@
     <title>Cherish That</title>
     <meta name="description" content="Cherish That Cakes">
     <meta name="viewport" content="width=device-width">
-    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="app/images/favicon-cherish.ico">
     <link rel="stylesheet" href="bower_components/materialize/bin/materialize.css"/>
     <link href="app/styles/material-icons.css" rel="stylesheet">
     <link href="bower_components/mdi/css/materialdesignicons.min.css" rel="stylesheet">
@@ -25,8 +25,12 @@
             </a>
         </div>
         <div class="col s12 m12 l12" id="menu">
-            <nav>
-                <ul class="center hide-on-med-and-down">
+           <div class="nav-wrapper">
+                <nav>
+                 <a href="/" class="brand-logo left">
+                     <img src="app/images/rsz_1banner.png" class="logo">
+                 </a>
+                <ul class=" hide-on-med-and-down">
                     <li class="active"><a href="/about">About Us</a></li>
                     <li><a href="/order-a-cake">Order A Cake</a></li>
                     <li><a href="/wedding-cakes">Wedding Cakes</a>
@@ -39,7 +43,7 @@
 
                 <ul id="slide-out" class="side-nav">
                     <li class="active"><a href="/about">About Us</a></li>
-                    <li><a href="#">Order A Cake</a></li>
+                    <li><a href="/order-a-cake">Order A Cake</a></li>
                     <li><a href="/wedding-cakes">Wedding Cakes</a>
                     <li><a href="/birthday-cakes">Birthday Cake</a></li>
                     <li><a href="/flavours">Flavours</a></li>
@@ -50,6 +54,7 @@
                 </ul>
                 <a href="#" data-activates="slide-out" class="button-collapse"><i class="mdi-navigation-menu"></i></a>
             </nav>
+           </div>
         </div>
     </div>   
 </header>
@@ -61,8 +66,8 @@ echo $child ?>
 
 <!-- footer -->
 <footer class="page-footer">
-    <div class="row no-bottom">
-         <div class="container">
+     <div class="row no-bottom">
+        <div class="container">
             <div class="col s12 l4 m4 pushab white-border">
                 <a href="" class="center black-text white-text phone">
                     Give us a Shot   0700 000 000
