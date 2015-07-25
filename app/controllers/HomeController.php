@@ -50,4 +50,12 @@ class HomeController extends BaseController
     public function cateringServices(){
         return View::make('index') -> nest('child', 'partials.catering');
     }
+
+    public function emailContact(){
+
+    }
+
+    public function newOrder(){
+        
+    }
 }

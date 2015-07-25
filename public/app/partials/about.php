@@ -1,5 +1,8 @@
 <div class="container">
 	<div class="row">
+		<div class="col s12 m12 l12">
+			<img src="app/images/flavours-main.jpg" class="responsive-img header-image" />
+		</div>
 		<div class="center">
 			<h4 class="section-header">A little bit About Us</h4>
 			<span class="header-underline extended"></span>

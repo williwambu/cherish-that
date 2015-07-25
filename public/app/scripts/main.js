@@ -23,6 +23,8 @@ $(document).ready(function(){
         indicators:false
     });
 
+    $(".button-collapse").sideNav();
+
     //activate menu items on click
     (function (){
         var menu_items = $('nav ul li a');
