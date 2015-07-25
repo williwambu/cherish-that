@@ -4,18 +4,15 @@
         <div class="slider">
             <ul class="slides">
                 <li>
-                    <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+                    <img src="app/images/slider/slider1.jpg"> 
                 </li>
                 <li>
-                    <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+                    <img src="app/images/slider/slider2.jpg"> 
 
                 </li>
                 <li>
-                    <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+                    <img src="app/images/slider/slider3.jpg">
 
-                </li>
-                <li>
-                    <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
                 </li>
             </ul>
         </div>

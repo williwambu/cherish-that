@@ -19,6 +19,7 @@ $(document).ready(function(){
     },false);
 
     $('.slider').slider({
+        height:500,
         full_width: true,
         indicators:false
     });
