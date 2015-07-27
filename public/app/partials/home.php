@@ -58,55 +58,55 @@
             <h4 class="section-header">Have a look at some of our Products.</h4>
             <span class="header-underline extended"></span>
         </div>
-        <div class="col s4 m4 l3 product-holder">
+        <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake1.jpg">
                 <p>Brief details of the cake.</p>
             </div>
         </div>
-         <div class="col s4 m4 l3 product-holder">
+         <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake2.jpg">
                 <p>Brief details of the cake.</p>
             </div>
         </div>
-         <div class="col s4 m4 l3 product-holder">
+         <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake3.jpg">
                 <p>Brief details of the cake.</p>
             </div>
         </div>
-         <div class="col s4 m4 l3 product-holder">
+         <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake4.jpg">
                 <p>Brief details of the cake.</p>
             </div>
         </div>
-         <div class="col s4 m4 l3 product-holder">
+         <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake5.jpg">
                 <p>Brief details of the cake.</p>
             </div>
-        </div> <div class="col s4 m4 l3 product-holder">
+        </div> <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake6.jpg">
                 <p>Brief details of the cake.</p>
             </div>
         </div>
-         <div class="col s4 m4 l3 product-holder">
+         <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake7.jpg">
                 <p>Brief details of the cake.</p>
             </div>
         </div>
-          <div class="col s4 m4 l3 product-holder">
+          <div class="col s12 m4 l3 product-holder">
             <p class="product-name center">Product Name</p>
             <div class="inner-product center">
                 <img class="product-image" src="app/images/cakes/cake8.jpg">

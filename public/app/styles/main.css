@@ -23,8 +23,8 @@ body {
         border: none !important;
     }
     .product-holder {
-        margin-left: 1rem !important;
-        margin-right: 1rem !important;
+        margin-left: 0.5rem !important;
+        margin-right: 0.5rem !important;
     }
 }
 
